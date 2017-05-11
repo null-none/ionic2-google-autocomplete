@@ -1,0 +1,14 @@
+{
+  "name": "reactjs-google-autocomplete",
+  "version": "1.0.0",
+  "description": "Ionic 2 google address autocomplete",
+  "main": "google/autocomplete.ts",
+  "keywords": [
+    "ionic 2",
+    "autocomplete",
+    "google autocomplete",
+  ],
+  "url" : "https://github.com/null-none/ionic2-google-autocomplete",
+  "author": "Dmitry Kalinin",
+  "license": "MIT"
+}
